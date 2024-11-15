@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<currencies>
+    <currency>
+        <code>USD</code>
+        <date>14.11.2024 00:00:00</date>
+        <course>123.788</course>
+    </currency>
+    <currency>
+        <code>EUR</code>
+        <date>14.11.2024 00:00:00</date>
+        <course>2.788</course>
+    </currency>
+    <currency>
+        <code>GBP</code>
+        <date>14.11.2024 00:00:00</date>
+        <course>3.788</course>
+    </currency>
+</currencies>
+

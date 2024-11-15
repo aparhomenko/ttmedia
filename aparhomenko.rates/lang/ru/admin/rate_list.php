@@ -1,0 +1,14 @@
+<?php
+$MESS["APARHOMENKO_RATE_ID"] = "ID";
+$MESS["APARHOMENKO_RATE_CODE"] = "Код валюты";
+$MESS["APARHOMENKO_RATE_DATE"] = "Дата";
+$MESS["APARHOMENKO_RATE_COURSE"] = "Курс";
+$MESS["APARHOMENKO_RATE_NAV"] = "Курсы";
+$MESS["APARHOMENKO_RATE_EDIT"] = "Изменить";
+$MESS["APARHOMENKO_RATE_DEL"] = "Удалить";
+$MESS["APARHOMENKO_RATE_LIST_SELECTED"] = "Выбраны курсы";
+$MESS["APARHOMENKO_RATE_POST_ADD_TEXT"] = "Добавить";
+$MESS["APARHOMENKO_RATE_POST_ADD_TITLE"] = "Добавить";
+$MESS["APARHOMENKO_RATE_TITLE"] = "Курсы валют";
+$MESS["APARHOMENKO_RATE_POST_UPLOAD_TEXT"] = "Загрузить из файла";
+$MESS["APARHOMENKO_RATE_DEL_CONF"] = "Хотите удалить курс валюты?";
