@@ -28,7 +28,7 @@ class Menu
                         'menu_id' => 'aparhomenko',
                         'text' => Loc::getMessage('APARHOMENKO_RATE_GLOBAL_MENU'),
                         'title' => Loc::getMessage('APARHOMENKO_RATE_GLOBAL_MENU'),
-                        'sort' => 1000,
+                        'sort' => 0,
                         'items_id' => 'global_menu_aparhomenko_items',
                         "icon" => "",
                         "page_icon" => "",
